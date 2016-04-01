@@ -1,0 +1,28 @@
+name: KIOTO
+favicon: null
+layout_spectrum: 0.01750184199772775
+typography_spectrum: 0.5884025145787746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.751606268575415
+  lightness: 0.5490483092144132
+  saturation: 0.42949753790162504
+  rhythmicContrast: 0.8401794077362865
+purpose: []
