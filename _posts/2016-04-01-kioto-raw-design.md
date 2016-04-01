@@ -2,22 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: RAW INDUSTRIAL DESIGN
-datePublished: '2016-04-01T16:01:29.337Z'
-dateModified: '2016-04-01T15:43:28.652Z'
+datePublished: '2016-04-01T16:21:13.951Z'
+dateModified: '2016-04-01T16:20:27.409Z'
 title: KIOTO RAW DESIGN
 author: []
+sourcePath: _posts/2016-04-01-kioto-raw-design.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-kioto-raw-design.md
-published: true
 _type: Blurb
 
 ---
